@@ -15,4 +15,4 @@ _G.StartTime = .5;
 _G.AntiLeach = false;
 _G.BeARealG = true;
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Manuel8090/discord-python-host-script/main/obfu", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Manuel8090/discord-python-host-script/main/Auto%20Top%20Ob", true))()
