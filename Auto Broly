@@ -37,11 +37,12 @@ Customize = {
     Anchor = false,
     Aimbot = true,
     Autopunch = true,
+    BeARealG = true,
 }
 
 AdvanceSettings = {
     Tracking = true,
-    HideLvl = true,
+    HideLvl = false,
     MaxLvlStop = "2000",
     GrabCheck = 20,
     OutputChange = false,
